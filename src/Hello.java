@@ -5,6 +5,7 @@ public class Hello {
                 System.out.print(i+"*"+j+"="+j*i+"	");
             }
             System.out.print("\n");
+
         }
 
     }
